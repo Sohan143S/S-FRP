@@ -4,5 +4,5 @@ print("Just Wait")
 os.system("git pull")
 
 
-import S-FRP
-S-FRP.login()
+import frp
+frp.login()
